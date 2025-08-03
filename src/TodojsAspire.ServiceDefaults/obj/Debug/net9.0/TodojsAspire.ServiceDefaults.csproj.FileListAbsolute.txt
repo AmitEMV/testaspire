@@ -1,0 +1,12 @@
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/bin/Debug/net9.0/TodojsAspire.ServiceDefaults.deps.json
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/bin/Debug/net9.0/TodojsAspire.ServiceDefaults.dll
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/bin/Debug/net9.0/TodojsAspire.ServiceDefaults.pdb
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/TodojsAspire.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/TodojsAspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/TodojsAspire.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/TodojsAspire.ServiceDefaults.AssemblyInfo.cs
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/TodojsAspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/TodojsAspire.ServiceDefaults.dll
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/refint/TodojsAspire.ServiceDefaults.dll
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/TodojsAspire.ServiceDefaults.pdb
+/Users/mav/amit/testaspire/src/TodojsAspire.ServiceDefaults/obj/Debug/net9.0/ref/TodojsAspire.ServiceDefaults.dll
